@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Halli-Santhe Digital</string>
+    <string name="add_product">Add Product</string>
+    <string name="product_name">Product Name</string>
+    <string name="price">Price (₹)</string>
+    <string name="description">Description</string>
+    <string name="seller_phone">Seller Phone</string>
+    <string name="pick_image">Pick Image</string>
+    <string name="save">Save</string>
+    <string name="contact_seller">Contact Seller</string>
+    <string name="no_products">No products yet. Tap + to add the first one.</string>
+    <string name="empty_title">Welcome to the Village Market</string>
+    <string name="price_format">₹ %.2f</string>
+    <string name="fill_required">Please fill name, price, and phone</string>
+    <string name="invalid_price">Enter a valid price</string>
+    <string name="product_saved">Product saved</string>
+    <string name="no_description">No description provided</string>
+    <string name="category">Category</string>
+    <string-array name="categories">
+        <item>Handicrafts</item>
+        <item>Textiles</item>
+        <item>Pottery</item>
+        <item>Food &amp; Spices</item>
+        <item>Jewelry</item>
+        <item>Farm Produce</item>
+        <item>Other</item>
+    </string-array>
+</resources>

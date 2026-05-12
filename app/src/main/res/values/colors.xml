@@ -1,0 +1,10 @@
+<resources>
+    <color name="saffron">#FF7722</color>
+    <color name="saffron_dark">#E5631A</color>
+    <color name="maroon">#8B1E3F</color>
+    <color name="green">#1B7F3A</color>
+    <color name="cream">#FFF8E7</color>
+    <color name="ink">#2B1B17</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

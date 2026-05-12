@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Main App Theme -->
+    <style name="Theme.HalliSanthe" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/saffron</item>
+        <item name="colorPrimaryDark">@color/saffron_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/maroon</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:windowBackground">@color/cream</item>
+        <item name="android:statusBarColor" tools:targetApi="l">@color/saffron_dark</item>
+    </style>
+
+    <!-- Splash Theme -->
+    <style name="Theme.HalliSanthe.Splash" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_bg</item>
+    </style>
+
+</resources>
