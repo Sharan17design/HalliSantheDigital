@@ -176,7 +176,7 @@ The application UI is inspired by traditional Indian village markets with:
 
 ---
 
-# Screenshots
+# 📷 Screenshots
 
 <p align="center">
   <img src="screenshots/Home.png" width="220"/>
@@ -186,9 +186,7 @@ The application UI is inspired by traditional Indian village markets with:
 
 <p align="center">
   <img src="screenshots/Search.png" width="220"/>
-  <img src="screenshots/EmptyState.png" width="220"/>
 </p>
-
 ---
 
 #  How to Run the Project
