@@ -179,14 +179,17 @@ The application UI is inspired by traditional Indian village markets with:
 # 📷 Screenshots
 
 <p align="center">
+  <img src="screenshots/SplashScreen.png" width="220"/>
   <img src="screenshots/Home.png" width="220"/>
   <img src="screenshots/AddProduct.png" width="220"/>
-  <img src="screenshots/ProductDetail.png" width="220"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/Search.png" width="220"/>
+  <img src="screenshots/ViewProduct.png" width="220"/>
+  <img src="screenshots/ContactSeller.png" width="220"/>
+  <img src="screenshots/ChatWithSeller.png" width="220"/>
 </p>
+
 ---
 
 #  How to Run the Project
